@@ -1,4 +1,4 @@
-# stand_contest
+# <一站到底>知识竞赛-java版
 hengliy for xcxxstiea
 
 hello this is my contest for my stiea by java
